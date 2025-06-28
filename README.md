@@ -1,4 +1,4 @@
-# raven-clj [![raven cljdoc badge](https://cljdoc.xyz/badge/raven-clj)](https://cljdoc.xyz/d/raven-clj/raven-clj/CURRENT)
+# raven-clj [![raven cljdoc badge](https://cljdoc.org/badge/raven-clj)](https://cljdoc.org/d/raven-clj/raven-clj/CURRENT)
 
 A Clojure interface to Sentry.
 
